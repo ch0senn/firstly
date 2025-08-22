@@ -1,12 +1,11 @@
-# Example Site Boilerplate
+STAR CREATING & SELLING NFT's FOR NOTHING
+This site provides everything you need to start creating an selling NFT's without paying anything.
+Create digital artwork by typing a description of your idea into a textbox and the app creates it for you.
+When you are happy with the result, simply add the Metadata and info and connect your digital wallet.
 
-A collection of common content pieces and boilerplate design and assets for use by the Netlify DX team (or anyone, although the content will be rather Netli-centric) when creating example and demo sites.
+THAT'S IT! Promote your work on the internet and receive payments directly into your wallet when your work sells.
 
-![A screenshot](screenshot.png)
-
-## Todo
-
-Everything really. We're just breaking ground.
+You pay a small commission after you make a sale but keep the rest for yourself.
 
 
 ## Sample README conventions.

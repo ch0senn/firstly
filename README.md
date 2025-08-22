@@ -1,4 +1,4 @@
-STAR CREATING & SELLING NFT's FOR NOTHING
+START CREATING & SELLING NFT's FOR NOTHING
 This site provides everything you need to start creating an selling NFT's without paying anything.
 Create digital artwork by typing a description of your idea into a textbox and the app creates it for you.
 When you are happy with the result, simply add the Metadata and info and connect your digital wallet.

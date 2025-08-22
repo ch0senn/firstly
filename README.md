@@ -8,9 +8,6 @@ THAT'S IT! Promote your work on the internet and receive payments directly into 
 You pay a small commission after you make a sale but keep the rest for yourself.
 
 
-## Sample README conventions.
+This piece of art was created with the descriptive text:
 
-Some common language and descriptions might be useful. What you'll find below this line
-
----
-
+"jnixnqininiclcic"
